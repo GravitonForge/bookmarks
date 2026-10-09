@@ -163,6 +163,7 @@
 * https://github.com/AOMediaCodec
 * https://github.com/hermit-os
 * https://github.com/curl
+* https://github.com/nghttp2
 * https://github.com/llvm
 * https://github.com/tree-sitter
 * https://github.com/nih-at
@@ -209,6 +210,7 @@
 * https://github.com/meilisearch
 * https://github.com/VictoriaMetrics
 * https://github.com/firecracker-microvm
+* https://github.com/zlib-ng
 * https://github.com/sqlite
 * https://github.com/starship
 * https://github.com/nushell
