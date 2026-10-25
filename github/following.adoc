@@ -118,7 +118,9 @@
 * https://github.com/gogs
 * https://github.com/seL4
 * https://github.com/LibVNC
+* https://github.com/gpac
 * https://github.com/iputils
+* https://github.com/obsproject
 * https://github.com/AdaCore
 * https://github.com/SELinuxProject
 * https://github.com/FDOS
