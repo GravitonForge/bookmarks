@@ -13,7 +13,6 @@
 * https://ziglang.org/
 * https://odin-lang.org/
 * https://www.freebasic.net/
-* https://www.rust-lang.org/ - Borrow Checked
 
 === Statically Compiled - Garbage Collected
 
@@ -26,9 +25,9 @@
 
 == Interpreted
 
-* https://www.ruby-lang.org/
-* https://www.lua.org/
-* https://www.tcl-lang.org/
 * https://www.perl.org/
+* https://www.tcl-lang.org/
+* https://www.lua.org/
+* https://www.ruby-lang.org/
 * https://www.python.org/
 
