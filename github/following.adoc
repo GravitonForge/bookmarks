@@ -19,8 +19,10 @@
 * https://github.com/arduino
 * https://github.com/illumos
 * https://github.com/libgit2
+* https://github.com/haskell
 * https://github.com/openscad
 * https://github.com/Gnucash
+* https://github.com/ghc
 * https://github.com/LibreCAD
 * https://github.com/schrodinger
 * https://github.com/FFmpeg
@@ -62,6 +64,7 @@
 * https://github.com/RT-Thread
 * https://github.com/GNOME
 * https://github.com/fish-shell
+* https://github.com/ocaml
 * https://github.com/Debian
 * https://github.com/openbabel
 * https://github.com/NLnetLabs
@@ -98,7 +101,6 @@
 * https://github.com/scaleway
 * https://github.com/lammps
 * https://github.com/kamailio
-* https://github.com/rust-lang
 * https://github.com/akamai
 * https://github.com/arangodb
 * https://github.com/ni
