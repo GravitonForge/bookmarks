@@ -1,8 +1,8 @@
 = Starred
 
 * https://github.com/gcc-mirror/gcc
-* https://github.com/edgcpp/compiler
 * https://github.com/llvm/llvm-project
+* https://github.com/edgcpp/compiler
 * https://github.com/netwide-assembler/nasm
 * https://github.com/fortran-lang/stdlib
 * https://github.com/flang-compiler/flang
@@ -12,7 +12,6 @@
 * https://github.com/AdaCore/gnat-llvm
 * https://github.com/AdaCore/ada_language_server
 * https://github.com/AdaCore/gnatstudio
-* https://github.com/freebasic/fbc
 * https://github.com/c3lang/c3c
 * https://github.com/carbon-language/carbon-lang
 * https://github.com/odin-lang/Odin
@@ -28,6 +27,7 @@
 * https://github.com/nushell/nushell
 * https://github.com/shader-slang/slang
 * https://github.com/Kitware/CMake
+* https://github.com/KDE/kdevelop
 * https://github.com/gpac/gpac
 * https://github.com/smol-machines/smolvm
 * https://github.com/obsproject/obs-studio
@@ -80,10 +80,8 @@
 * https://github.com/libevent/libevent
 * https://github.com/envoyproxy/envoy
 * https://github.com/iputils/iputils
-* https://github.com/ory/keto
 * https://github.com/libgit2/libgit2
 * https://github.com/livekit/livekit
-* https://github.com/ory/kratos
 * https://github.com/openfga/openfga
 * https://github.com/authzed/spicedb
 * https://github.com/zitadel/zitadel

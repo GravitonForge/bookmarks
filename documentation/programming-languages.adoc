@@ -15,7 +15,6 @@
 * https://docs.carbon-lang.dev/
 * https://ziglang.org/
 * https://odin-lang.org/
-* https://www.freebasic.net/
 
 === Statically Compiled - Garbage Collected
 
