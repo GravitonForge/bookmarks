@@ -1,7 +1,6 @@
 = Following
 
 * https://github.com/git
-* https://github.com/chef
 * https://github.com/memcached
 * https://github.com/mongodb
 * https://github.com/apache
@@ -12,7 +11,6 @@
 * https://github.com/Kitware
 * https://github.com/postgres
 * https://github.com/ruby
-* https://github.com/puppetlabs
 * https://github.com/freebasic
 * https://github.com/DragonFlyBSD
 * https://github.com/tianocore
@@ -40,6 +38,7 @@
 * https://github.com/fpc
 * https://github.com/gitlabhq
 * https://github.com/geany
+* https://github.com/saltstack
 * https://github.com/MidnightCommander
 * https://github.com/OpenChemistry
 * https://github.com/gnuradio
@@ -173,7 +172,6 @@
 * https://github.com/nih-at
 * https://github.com/intel
 * https://github.com/ostreedev
-* https://github.com/habitat-sh
 * https://github.com/solvespace
 * https://github.com/go-delve
 * https://github.com/zephyrproject-rtos
