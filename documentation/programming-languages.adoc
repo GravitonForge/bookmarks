@@ -21,6 +21,7 @@
 * https://go.dev/
 * https://crystal-lang.org/
 * https://ocaml.org/
+* https://www.haskell.org/
 
 == Dynamically Compiled
 
