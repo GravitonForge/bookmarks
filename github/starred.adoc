@@ -1,4 +1,4 @@
-= Following
+= Starred
 
 * https://github.com/gcc-mirror/gcc
 * https://github.com/llvm/llvm-project
@@ -20,8 +20,6 @@
 * https://github.com/crystal-lang/crystal
 * https://github.com/ocaml/ocaml
 * https://github.com/ocaml/ocaml-lsp
-* https://github.com/ghc/ghc
-* https://github.com/haskell/haskell-language-server
 * https://github.com/dart-lang/sdk
 * https://github.com/fish-shell/fish-shell
 * https://github.com/nushell/nushell
