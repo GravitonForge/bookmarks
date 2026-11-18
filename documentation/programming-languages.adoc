@@ -11,18 +11,18 @@
 
 ==== In Development
 
-* https://c3-lang.org/
 * https://docs.carbon-lang.dev/
+* https://c3-lang.org/
 * https://ziglang.org/
 * https://odin-lang.org/
 
 === Statically Compiled - Garbage Collected
 
 * https://go.dev/
-* https://crystal-lang.org/
 * https://ocaml.org/
+* https://crystal-lang.org/
 
-== Dynamically Compiled
+== Dynamically Compiled Bytecode Interpreter
 
 * https://dart.dev/
 
